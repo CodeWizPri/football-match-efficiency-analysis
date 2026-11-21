@@ -14,3 +14,7 @@ An end-to-end exploratory and statistical analysis of over 20,000 modern interna
 - **Data Manipulation:** Pandas, NumPy
 - **Statistical Testing & ML:** SciPy (`ttest_ind`), Scikit-learn (`StandardScaler`, `KMeans`)
 - **Visualization:** Matplotlib, Seaborn
+
+## View the Notebook
+- **Interactive / Full Outputs:** [Open in Google Colab](https://colab.research.google.com/github/CodeWizPri/football-match-efficiency-analysis/blob/main/football_analytics_mini_project.ipynb)
+- **Static Rendered View:** [View on nbviewer](https://nbviewer.org/github/CodeWizPri/football-match-efficiency-analysis/blob/main/football_analytics_mini_project.ipynb)
